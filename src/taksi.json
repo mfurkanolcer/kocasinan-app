@@ -1,0 +1,29 @@
+[
+    {
+      "id": 1,
+      "name": "Çiçek Taksi",
+      "ilce": "Kocasinan",
+      "mahalle": "Cumhuriyet Mah.",
+	  "phone": "0512 345 67 89",
+      "latitude": 38.721359221344265,
+      "longitude": 35.4871023905225
+    },
+    {
+      "id": 2,
+      "name": "Meydan Taksi",
+      "ilce": "Kocasinan",
+      "mahalle": "Gevhernesibe Mah.",
+	  "phone": "0512 345 67 89",
+      "latitude": 38.782376486180546,
+      "longitude": 35.58719075162081
+    },
+    {
+      "id": 3,
+      "name": "Düvenönü Taksi",
+      "ilce": "Kocasinan",
+      "mahalle": "Cumhuriyet Mah.",
+	  "phone": "0512 345 67 89",
+      "latitude": 38.782376486180546,
+      "longitude": 35.58719075162081
+    }
+]

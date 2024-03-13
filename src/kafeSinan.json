@@ -1,0 +1,34 @@
+[
+    {
+      "id": 1,
+      "name": "Kafe Sinan Hanımeli",
+      "ilce": "Kocasinan",
+      "mahalle": "Erciyesevler Mah.",
+      "latitude": 38.73773587205208,
+      "longitude": 35.52045848655753
+    },
+    {
+      "id": 2,
+      "name": "KafeSinan Beyazşehir",
+      "ilce": "Kocasinan",
+      "mahalle": "Beyazşehir Mah.",
+      "latitude": 38.782376486180546,
+      "longitude": 35.58719075162081
+    },
+    {
+      "id": 3,
+      "name": "Kafe Sinan Glutensiz",
+      "ilce": "Kocasinan",
+      "mahalle": "Erkilet Osmangazi Mh.",
+      "latitude": 38.78534674975958,
+      "longitude": 35.457660480380135
+    },
+	{
+      "id": 4,
+      "name": "Kafe Sinan Hanımeli İstasyon",
+      "ilce": "Kocasinan",
+      "mahalle": "Gevhernesibe Mah.",
+      "latitude": 38.73773587205208,
+      "longitude": 35.52045848655753
+    },
+]

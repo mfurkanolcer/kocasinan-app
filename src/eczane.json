@@ -1,0 +1,46 @@
+[
+    {
+      "id": 1,
+      "name": "GÜL ECZANESİ",
+      "ilce": "Kocasinan",
+      "mahalle": "Beyazşehir Mah.",
+      "day": "Çarşamba",
+	  "sure": "Gece 01:00'a kadar açık",
+	  "phone": "0112 345 67 89",
+      "latitude": 38.721359221344265,
+      "longitude": 35.4871023905225
+    },
+    {
+      "id": 2,
+      "name": "ERKİLET ECZANESİ",
+      "ilce": "Kocasinan",
+      "mahalle": "Erkilet Ertuğrulgazi Mah.",
+      "day": "Çarşamba",
+	  "sure": "24 saat açık",
+	  "phone": "0112 345 67 89",
+      "latitude": 38.72667350572572,
+      "longitude": 35.48457150965697
+    },
+	    {
+      "id": 3,
+      "name": "POLAT ECZANESİ",
+      "ilce": "Melikgazi",
+      "mahalle": "Mimarsinan Mah.",
+      "day": "Çarşamba",
+	  "sure": "24 saat açık",
+	  "phone": "0112 345 67 89",
+      "latitude": 38.72667350572572,
+      "longitude": 35.48457150965697
+    },
+	    {
+      "id": 4,
+      "name": "GÖKTÜRK ECZANESİ",
+      "ilce": "Talas",
+      "mahalle": "Bahçelievler Mah.",
+      "day": "Perşembe",
+	  "sure": "24 saat açık",
+	  "phone": "0112 345 67 89",
+      "latitude": 38.72667350572572,
+      "longitude": 35.48457150965697
+    }
+]

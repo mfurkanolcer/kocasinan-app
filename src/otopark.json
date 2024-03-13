@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Meydan Otopark 1",
+      "ilce": "Kocasinan",
+      "mahalle": "Cumhuriyet Mah.",
+      "latitude": 38.721359221344265,
+      "longitude": 35.4871023905225
+    },
+    {
+      "id": 2,
+      "name": "Düvenönü Otopark",
+      "ilce": "Kocasinan",
+      "mahalle": "Gevhernesibe Mah.",
+      "latitude": 38.782376486180546,
+      "longitude": 35.58719075162081
+    },
+    {
+      "id": 3,
+      "name": "Otopark 3",
+      "ilce": "Kocasinan",
+      "mahalle": "Erkilet Osmangazi Mh.",
+      "latitude": 38.782376486180546,
+      "longitude": 35.58719075162081
+    }
+]
